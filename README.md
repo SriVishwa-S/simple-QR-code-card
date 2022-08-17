@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
@@ -13,10 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
   This is my very first challenge at Frontend Mentor. In this challenge, we need to recreate a card with a QR code and some text associated with it. I had a very fun time creating this project.
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 
 ### Built with
 
