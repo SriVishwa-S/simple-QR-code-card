@@ -34,5 +34,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   I practiced using flexbox and also learnt about how to apply shadows in a proper way
 
 ## Author
-
-- Frontend Mentor - [@SriVishwa-S](https://www.frontendmentor.io/profile/SriVishwa-S)
+- Sri Vishwa S
+- My Frontend Mentor profile - [@SriVishwa-S](https://www.frontendmentor.io/profile/SriVishwa-S)
